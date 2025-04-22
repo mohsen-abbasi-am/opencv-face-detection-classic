@@ -8,3 +8,12 @@ Haar Cascade is a machine vision technique based on predefined patterns (feature
 
 ## 📂 Project Structure
 
+## 🚀 How to Run
+
+### 1. Clone the repository and run python script
+```bash
+git clone https://github.com/yourusername/opencv-face-detection-classic.git
+cd opencv-face-detection-classic
+
+python face_detect.py
+
